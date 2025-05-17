@@ -59,5 +59,5 @@ Filter by Weekend vs Weekday
 
 This Tableau dashboard helps stakeholders monitor store performance, identify logistics challenges, and uncover patterns that drive customer satisfaction and sales growth.
 
-Preview : ![Dashboard Preview](
+Preview : ![Dashboard Preview](https://github.com/sadik4li/olist-store-tableau/blob/main/Screenshot%202025-05-16%20225429.png)
 
